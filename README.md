@@ -113,3 +113,7 @@ npm start
 ```
 
 4. **Access the application at:** [http://localhost:3000](http://localhost:3000)
+
+## Output
+
+
