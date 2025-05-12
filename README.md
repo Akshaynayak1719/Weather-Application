@@ -1,4 +1,4 @@
-# 🌦️ Weather Application with Forecast & Analytics
+# 🌦️ Weather Application 
 
 **Company Name:** CODETECH IT SOLUTIONS  
 **Name:** AKSHAY H NAYAK  
@@ -116,4 +116,4 @@ npm start
 
 ## Output
 
-
+![Image](https://github.com/user-attachments/assets/5b79d215-f57d-4f6e-bb87-a7e2f3870ea8)
