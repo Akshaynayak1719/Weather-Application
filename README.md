@@ -81,38 +81,6 @@ weather-app/
 
 ---
 
-## 🧩 SETUP INSTRUCTIONS
-
-### ✅ Prerequisites
-
-- Node.js (v14+)
-- npm or yarn
-- OpenWeatherMap API key
-
-### 📦 Installation
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/yourusername/weather-app.git
-```
-
-2. **Set up the backend:**
-```bash
-cd server
-npm install
-cp .env.example .env
-# Add your OpenWeatherMap API key in .env
-npm start
-```
-
-3. **Set up the frontend:**
-```bash
-cd ../client
-npm install
-npm start
-```
-
-4. **Access the application at:** [http://localhost:3000](http://localhost:3000)
 
 ## Output
 
